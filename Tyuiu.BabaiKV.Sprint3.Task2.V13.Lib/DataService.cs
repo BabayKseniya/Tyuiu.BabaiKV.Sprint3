@@ -8,7 +8,8 @@ namespace Tyuiu.BabaiKV.Sprint3.Task2.V13.Lib
             double sumSeries = 0;
             do
             {
-                sumSeries = sumSeries + (((Math.Pow(value, startValue)) + (2 / (startValue + 1))) * (Math.Sin(value)));
+                
+                sumSeries = sumSeries + ((Math.Pow(value,startValue) + (2.0 / (startValue + 1))) * (Math.Sin(value)));
                 startValue++;
 
             }while (startValue <=stopValue);
