@@ -10,9 +10,9 @@ namespace Tyuiu.BabaiKV.Sprint3.Task5.V20.Lib
             
             for (i = startValue1;i<= stopValue1 ; i++)
             {
-                for (j = startValue1; j <= stopValue1; j++)
+                for (j = startValue2; j <= stopValue2; j++)
                 {
-                    sumSeries = sumSeries + (Math.Pow((x / Math.Sin(x)), startValue2));
+                    sumSeries = sumSeries + (Math.Pow((x / (Math.Sin(x))), startValue2));
 
                 }
 
