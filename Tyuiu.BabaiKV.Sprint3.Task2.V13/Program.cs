@@ -13,7 +13,6 @@ namespace Tyuiu.BabaiKV.Sprint3.Task2.V13
             Console.Title = "Спринт #3 | Выполнила: Бабай К.В. | СМАРТб-24-1 ";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #6                                                              *");
             Console.WriteLine("* Выполнила: Бабай К.В.  | СМАРТб-24-1                                    *");
